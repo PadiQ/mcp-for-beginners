@@ -13,8 +13,8 @@
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
 Follow these steps to get started using these resources:
-1. **Fork the Repository**: Click [![GitHub forks](https://img.shields.io/github/forks/microsoft/mcp-for-beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/mcp-for-beginners/fork)
-2. **Clone the Repository**:   `git clone https://github.com/microsoft/mcp-for-beginners.git`
+1. **Fork the Repository**: Click [![GitHub forks](https://img.shields.io/github/forks/PadiQ/mcp-for-beginners.svg?style=social&label=Fork)](https://GitHub.com/PadiQ/mcp-for-beginners/fork)
+2. **Clone the Repository**:   `git clone https://github.com/PadiQ/mcp-for-beginners.git`
 3. **Join The** [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
 
@@ -31,14 +31,14 @@ Follow these steps to get started using these resources:
 >
 > **Bash / macOS / Linux:**
 > ```bash
-> git clone --filter=blob:none --sparse https://github.com/microsoft/mcp-for-beginners.git
+> git clone --filter=blob:none --sparse https://github.com/PadiQ/mcp-for-beginners.git
 > cd mcp-for-beginners
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
 >
 > **CMD (Windows):**
 > ```cmd
-> git clone --filter=blob:none --sparse https://github.com/microsoft/mcp-for-beginners.git
+> git clone --filter=blob:none --sparse https://github.com/PadiQ/mcp-for-beginners.git
 > cd mcp-for-beginners
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```

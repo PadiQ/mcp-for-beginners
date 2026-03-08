@@ -33,7 +33,7 @@ This is a documentation-focused repository. Most setup occurs within individual 
 
 ```bash
 # Clone the repository
-git clone https://github.com/microsoft/mcp-for-beginners.git
+git clone https://github.com/PadiQ/mcp-for-beginners.git
 cd mcp-for-beginners
 ```
 
